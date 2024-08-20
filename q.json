@@ -1,0 +1,3204 @@
+{
+  "questions": [
+    {
+      "sn": 1,
+      "question": "The phonemic transcription of the word 'thirty' is",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 0,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "/ˈθɜːti/",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4485f9"
+        },
+        {
+          "text": "/ˈθɜːrti/",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4485fa"
+        },
+        {
+          "text": "/ˈθɜrti/",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4485fb"
+        },
+        {
+          "text": "/ˈθːti/",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4485fc"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff4485f8"
+    },
+    {
+      "sn": 2,
+      "question": "You won't get anything in return; you have backed the wrong horse. Here, 'backing the wrong horse' means",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 0,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "to help the wrong person",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4485fe"
+        },
+        {
+          "text": "to help the bad person",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4485ff"
+        },
+        {
+          "text": "to help the unwanted person",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448600"
+        },
+        {
+          "text": "to help the selfish person",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448601"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff4485fd"
+    },
+    {
+      "sn": 3,
+      "question": "The synonym of 'comely' is:",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 2,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "Delicate",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448603"
+        },
+        {
+          "text": "fragile",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448604"
+        },
+        {
+          "text": "pretty",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448605"
+        },
+        {
+          "text": "sexy",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448606"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448602"
+    },
+    {
+      "sn": 4,
+      "question": "She will come______ Christmas.",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 1,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "in",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448608"
+        },
+        {
+          "text": "at",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448609"
+        },
+        {
+          "text": "during",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44860a"
+        },
+        {
+          "text": "none",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44860b"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448607"
+    },
+    {
+      "sn": 5,
+      "question": "I am used  to ________ football barefooted.",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 2,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "play",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44860d"
+        },
+        {
+          "text": "being played",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44860e"
+        },
+        {
+          "text": "playing",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44860f"
+        },
+        {
+          "text": "be playing",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448610"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff44860c"
+    },
+    {
+      "sn": 6,
+      "question": "They did nothing but_________.",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 0,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "enjoy",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448612"
+        },
+        {
+          "text": "enjoyed",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448613"
+        },
+        {
+          "text": "enjoyment",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448614"
+        },
+        {
+          "text": "enjoying",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448615"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448611"
+    },
+    {
+      "sn": 7,
+      "question": "It is desirable that our politicians__________ more responsible.",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 0,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "be",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448617"
+        },
+        {
+          "text": "are",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448618"
+        },
+        {
+          "text": "ought to",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448619"
+        },
+        {
+          "text": "are going to be",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44861a"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448616"
+    },
+    {
+      "sn": 8,
+      "question": "But for the rain,_______",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 2,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "the crops will be damaged.",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44861c"
+        },
+        {
+          "text": "the crops would be damaged",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44861d"
+        },
+        {
+          "text": "the crops would have been damaged",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44861e"
+        },
+        {
+          "text": "Both b and c",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44861f"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff44861b"
+    },
+    {
+      "sn": 9,
+      "question": "Which is correct?",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 2,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "The blind must be helped.",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448621"
+        },
+        {
+          "text": "The blind have to be helped.",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448622"
+        },
+        {
+          "text": "The blind should be helped.",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448623"
+        },
+        {
+          "text": "Let the blind be helped.",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448624"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448620"
+    },
+    {
+      "sn": 10,
+      "question": "He said to his friend, Don't smoke.",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 0,
+      "options": [
+        {
+          "text": "He forbade his friend not to smoke.",
+          "image": "",
+          "_id": "66b5c4c85a5528bdff44a73f"
+        },
+        {
+          "text": "He forbade his friend no to smoke.",
+          "image": "",
+          "_id": "66b5c4c85a5528bdff44a740"
+        },
+        {
+          "text": "both",
+          "image": "",
+          "_id": "66b5c4c85a5528bdff44a741"
+        },
+        {
+          "text": "none",
+          "image": "",
+          "_id": "66b5c4c85a5528bdff44a742"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448625",
+      "explanation": "",
+      "explanationImage": ""
+    },
+    {
+      "sn": 11,
+      "question": "The pattern for the sentence - 'we appointed him captain' is:",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 3,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "S+V+OI+OD",
+          "image": "",
+          "_id": "66b5c48a5a5528bdff44965f"
+        },
+        {
+          "text": "S+V+OD+OI",
+          "image": "",
+          "_id": "66b5c48a5a5528bdff449660"
+        },
+        {
+          "text": "S+V+OI+complement",
+          "image": "",
+          "_id": "66b5c48a5a5528bdff449661"
+        },
+        {
+          "text": "S+V+OI+captain+OI",
+          "image": "",
+          "_id": "66b5c48a5a5528bdff449662"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff44862a"
+    },
+    {
+      "sn": 12,
+      "question": "The teacher beat the boy_____.",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 2,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "black and white",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448630"
+        },
+        {
+          "text": "black and red",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448631"
+        },
+        {
+          "text": "black and blue",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448632"
+        },
+        {
+          "text": "blue and black",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448633"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff44862f"
+    },
+    {
+      "sn": 13,
+      "question": "Number of moles of butane present in a cylinder having 100g of it is",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 3,
+      "explanation": "no of mole= $\\frac{wt}{mol. wt} =\\frac{100}{58} =1.72$",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "100",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448635"
+        },
+        {
+          "text": "1.58",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448636"
+        },
+        {
+          "text": "158",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448637"
+        },
+        {
+          "text": "1.72",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448638"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448634"
+    },
+    {
+      "sn": 14,
+      "question": "The number of spectral line given by an electron in 4th shell of H-atom",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 3,
+      "explanation": "no of spectral line = $\\frac{n(n-1)}{2} =\\frac{4*3}{2} =6$",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "3",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44863a"
+        },
+        {
+          "text": "4",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44863b"
+        },
+        {
+          "text": "5",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44863c"
+        },
+        {
+          "text": "6",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44863d"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448639"
+    },
+    {
+      "sn": 15,
+      "question": "Which of these doesn't contain ionic bond?",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 0,
+      "explanation": "$H_2SO_4$ contains only non-metals so it has covalent and co-ordinate covalent bonds only.",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "$H_2SO_4$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44863f"
+        },
+        {
+          "text": "NaCl",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448640"
+        },
+        {
+          "text": "$NH_4Cl$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448641"
+        },
+        {
+          "text": "none",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448642"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff44863e"
+    },
+    {
+      "sn": 16,
+      "question": "Which of theses has least ionization energy?",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 1,
+      "explanation": "Order of IE: Be>B<C<N",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "Be",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448644"
+        },
+        {
+          "text": "B",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448645"
+        },
+        {
+          "text": "C",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448646"
+        },
+        {
+          "text": "N",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448647"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448643"
+    },
+    {
+      "sn": 17,
+      "question": "Given $MnO_4 ^{-} + H^{+} +C_2O_4 ^{--}  \\to Mn^{++} + CO_2 + H_2O. $ The number of moles of $C_2O_4 ^{--} $oxidize by 1 mole of $MnO_4$ is",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 2,
+      "explanation": "Change in ON of C=2 $\\\\$ Change in ON of Mn=5 $ \\\\$  So, 2 moles $MnO_4 ^{--}$ oxidises 5 moles of $C_2O_4 ^{--}$ $\\\\$ 1 moles $MnO_4 ^{--}$ oxidises 5/2 moles of $C_2O_4 ^{--}$",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "1/5",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448649"
+        },
+        {
+          "text": "5",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44864a"
+        },
+        {
+          "text": "5/2",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44864b"
+        },
+        {
+          "text": "2/5",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44864c"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448648"
+    },
+    {
+      "sn": 18,
+      "question": "The current required  to liberate 1cc of $H_2$ gas at STP by the electrolysis of water is",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 2,
+      "explanation": "11200$H_2$ STP=96500c$\\\\$ charge1cc $H_2$ at STP =$\\frac{96500}{1200} $ c $\\\\$charge =8.6c $\\\\$$\\frac{q}{t} =\\frac{8.6}{1}$ = 8.6A",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "0.86A",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44864e"
+        },
+        {
+          "text": "1.72A",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44864f"
+        },
+        {
+          "text": "8.6A",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448650"
+        },
+        {
+          "text": "17.2A",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448651"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff44864d"
+    },
+    {
+      "sn": 19,
+      "question": "The gas formed by passing $NH_3$ gas over heated sodium metal in",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 3,
+      "explanation": "$NH_3$ is reduced by Na to $H_2$ gas $\\\\$$NH_3 + Na \\to NaNH_2 + H_2$",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "$N_2$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448653"
+        },
+        {
+          "text": "$N_2H_4$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448654"
+        },
+        {
+          "text": "$NO_2$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448655"
+        },
+        {
+          "text": "$H_2$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448656"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448652"
+    },
+    {
+      "sn": 20,
+      "question": "Which of these used as leachant for extraction of silver from argentite?",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 1,
+      "explanation": "NaCN is used as leachant as it dissolve $Ag_2S$ as soluble cyano complex",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "NaOH",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448658"
+        },
+        {
+          "text": "NaCN",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448659"
+        },
+        {
+          "text": "KOH",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44865a"
+        },
+        {
+          "text": "$Na_2CO_3$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44865b"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448657"
+    },
+    {
+      "sn": 21,
+      "question": "Which of the followings does not give $CH_4$ wheen treated with $CH_3MgI$?",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 0,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "Trimethyl amine",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44865d"
+        },
+        {
+          "text": "Ethyl amine",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44865e"
+        },
+        {
+          "text": "Dimethyl amine",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44865f"
+        },
+        {
+          "text": "Ammonia",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448660"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff44865c"
+    },
+    {
+      "sn": 22,
+      "question": "n-Propyl amine and Ethylmethyl amine are",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 1,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "Chain isomers",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448662"
+        },
+        {
+          "text": "Functional isomers",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448663"
+        },
+        {
+          "text": "Positional isomers",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448664"
+        },
+        {
+          "text": "Metamers",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448665"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448661"
+    },
+    {
+      "sn": 23,
+      "question": "Which of the followings is the least reactive in electrophilic aromatic substitution?",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 3,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "Aniline",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448667"
+        },
+        {
+          "text": "Toulene",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448668"
+        },
+        {
+          "text": "Cholorobenzene",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448669"
+        },
+        {
+          "text": "Nitrobenzene",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44866a"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448666"
+    },
+    {
+      "sn": 24,
+      "question": "The process of removing iron oxide by washing with acid during coating of zinc is",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 1,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "Annealing",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44866c"
+        },
+        {
+          "text": "Pickling",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44866d"
+        },
+        {
+          "text": "sherardising",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44866e"
+        },
+        {
+          "text": "Galvanization",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44866f"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff44866b"
+    },
+    {
+      "sn": 25,
+      "question": "The IUPAC name of malonic acid is",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 2,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "propanic acid",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448671"
+        },
+        {
+          "text": "Ethanedioic acid",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448672"
+        },
+        {
+          "text": "1,3-propanedioic acid",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448673"
+        },
+        {
+          "text": "1,4-butanedioic acid",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448674"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448670"
+    },
+    {
+      "sn": 26,
+      "question": "During nitration of benzene using conc. $HNO_3$ and conc. $H_2SO_4$, the electrophile is",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 3,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "$HNO_3$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448676"
+        },
+        {
+          "text": "$NO_2$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448677"
+        },
+        {
+          "text": "$NO_2 ^{-}$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448678"
+        },
+        {
+          "text": "$NO_2 ^{+}$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448679"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448675"
+    },
+    {
+      "sn": 27,
+      "question": "The machine deliver a constant power to drive a body along a straight line. The distance covered by body with time is related by",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 0,
+      "explanation": "$P=ML^2T^3$ = constant so, $\\\\$  $L^2 \\propto T^3$ $\\\\$ or, $s^2=t^3$",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "$s^2 \\propto t^3$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44867b"
+        },
+        {
+          "text": "$s^2 \\propto t^{-3}$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44867c"
+        },
+        {
+          "text": "$s^3 \\propto t^2$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44867d"
+        },
+        {
+          "text": "$s^ \\propto t^3$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44867e"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff44867a"
+    },
+    {
+      "sn": 28,
+      "question": "Mesons are made up of:",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 0,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "One quark and one antiquark",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448680"
+        },
+        {
+          "text": "Two quarks",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448681"
+        },
+        {
+          "text": "Three quarks",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448682"
+        },
+        {
+          "text": "Four quarks",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448683"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff44867f"
+    },
+    {
+      "sn": 29,
+      "question": "Specific Heat capacity of water at boiling point while water is changing into vapor is",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 2,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "1",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448685"
+        },
+        {
+          "text": "0",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448686"
+        },
+        {
+          "text": "$\\infty$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448687"
+        },
+        {
+          "text": "slightly less than 1",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448688"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448684"
+    },
+    {
+      "sn": 30,
+      "question": "A solid cube and a solid sphere have equal surface area. Both are at same temperature of 120$^o$C then,",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 1,
+      "explanation": "P=$\\sigma A(T^4 - T_o ^4)=ms\\frac{d\\theta}{dt}$ $\\\\$ $\\frac{d\\theta}{dt}$ =$\\frac{\\sigma A (T^4 - T_o ^4)}{ms}$ $\\\\$ mass of sphere is greater than cube so rate of cooling will be less",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "both of them at same rate",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44868a"
+        },
+        {
+          "text": "cube will cool down faster than sphere",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44868b"
+        },
+        {
+          "text": "sphere will cool down faster than cube",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44868c"
+        },
+        {
+          "text": "can't predict",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44868d"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448689"
+    },
+    {
+      "sn": 31,
+      "question": "When sound source and listener move in the same distance with same velocity. The apparent frequency of sound heard.",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 2,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "increase",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44868f"
+        },
+        {
+          "text": "decrease",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448690"
+        },
+        {
+          "text": "remain unchanged",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448691"
+        },
+        {
+          "text": "may increase or decrease",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448692"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff44868e"
+    },
+    {
+      "sn": 32,
+      "question": "A metal foil of negligible thickness is introduced between two plates of a capacitor at the center. The capacitance will be",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 0,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "same",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448694"
+        },
+        {
+          "text": "double",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448695"
+        },
+        {
+          "text": "half",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448696"
+        },
+        {
+          "text": "infinite",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448697"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448693"
+    },
+    {
+      "sn": 33,
+      "question": "The quantity that increase in step down transformer is",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 0,
+      "explanation": "voltage decrease and current increase.",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "current",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448699"
+        },
+        {
+          "text": "voltage",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44869a"
+        },
+        {
+          "text": "power",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44869b"
+        },
+        {
+          "text": "frequency",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44869c"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448698"
+    },
+    {
+      "sn": 34,
+      "question": "The minimum wavelength of x-ray that can be produced in a Coolidge tube depends on",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 3,
+      "explanation": "$\\frac{hc}{\\lambda} =ev$ $\\\\$ or, $\\lambda_{min}$  $= \\frac{hc}{ev}$, decrease on increasing v",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "Metal used in target",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44869e"
+        },
+        {
+          "text": "Intensity of electron beam striking the target",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44869f"
+        },
+        {
+          "text": "Current flowing through the filament",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486a0"
+        },
+        {
+          "text": "Potential difference between cathode and anode",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486a1"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff44869d"
+    },
+    {
+      "sn": 35,
+      "question": "Two sources of sound of the same frequency produces sound intensities I and 4I at a point P when used individually. If they are used together and have phase difference $\\frac{2\\pi}{3}$ at  point P then intensity at P will be.",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 1,
+      "explanation": "$I_R = I+4I+2\\sqrt{I*4I} * cos \\frac{2\\pi}{3}$ = 5I-2I=3I",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "2I",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486a3"
+        },
+        {
+          "text": "3I",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486a4"
+        },
+        {
+          "text": "4I",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486a5"
+        },
+        {
+          "text": "5I",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486a6"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff4486a2"
+    },
+    {
+      "sn": 36,
+      "question": "Convex mirror of focal length f produces an image (1/n) of the size of the object. The distance of the object from mirror is",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 0,
+      "explanation": "$m=I/O =1/n =v/u $so, v=u/n.Now, use 1/f =1/u +1/v",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "(n-1)f",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486a8"
+        },
+        {
+          "text": "f/n",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486a9"
+        },
+        {
+          "text": "(n+1)f",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486aa"
+        },
+        {
+          "text": "nf",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486ab"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff4486a7"
+    },
+    {
+      "sn": 37,
+      "question": "In common emitter amplifier, the ratio of $I_c$ and $I_e$ is 0.98 then current gain is",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 0,
+      "explanation": "$\\alpha = \\frac{I_c}{I_e} = 0.98$ and$\\beta = \\frac{\\alpha}{1-\\alpha} = \\frac{0.98}{1-0.98} $ = 49",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "49",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486ad"
+        },
+        {
+          "text": "4.9",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486ae"
+        },
+        {
+          "text": "98",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486af"
+        },
+        {
+          "text": "9.8",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486b0"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff4486ac"
+    },
+    {
+      "sn": 38,
+      "question": "The deplection layer of an open circuit of PN junction has",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 2,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "electrons",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486b2"
+        },
+        {
+          "text": "holes",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486b3"
+        },
+        {
+          "text": "immobile ions",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486b4"
+        },
+        {
+          "text": "neutralised atoms",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486b5"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff4486b1"
+    },
+    {
+      "sn": 39,
+      "question": "With the increase in intensity of light",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 0,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "photo electric current increase",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486b7"
+        },
+        {
+          "text": "frequency increase",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486b8"
+        },
+        {
+          "text": "max KE increase",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486b9"
+        },
+        {
+          "text": "photo electric current decrease",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486ba"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff4486b6"
+    },
+    {
+      "sn": 40,
+      "question": "The resultant of two forces 8N and 6N is",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 1,
+      "explanation": "resultant lies between sum and difference of 8 and 6 N force",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "1 N",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486bc"
+        },
+        {
+          "text": "10N",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486bd"
+        },
+        {
+          "text": "15N",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486be"
+        },
+        {
+          "text": "20N",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486bf"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff4486bb"
+    },
+    {
+      "sn": 41,
+      "question": "If a set A has 4 elements, then the number of non-empty proper subsets of A is",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 1,
+      "explanation": "no of subests= $2^4$ = 16 $\\\\$  No of required proper subsets = 16 - empty set - itself =14",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "3",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486c1"
+        },
+        {
+          "text": "14",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486c2"
+        },
+        {
+          "text": "15",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486c3"
+        },
+        {
+          "text": "16",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486c4"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff4486c0"
+    },
+    {
+      "sn": 42,
+      "question": "If A and B are disjoint sets, then A-B=",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 1,
+      "explanation": "make venn-diagram and analyse.",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "A $\\cap$ B",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486c6"
+        },
+        {
+          "text": "A",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486c7"
+        },
+        {
+          "text": "B",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486c8"
+        },
+        {
+          "text": "$\\phi$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486c9"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff4486c5"
+    },
+    {
+      "sn": 43,
+      "question": "A function f:A $\\to$ B is an onto function if",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 2,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "f(A) $\\subset$ B",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486cb"
+        },
+        {
+          "text": "A=B",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486cc"
+        },
+        {
+          "text": "f(A)=B",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486cd"
+        },
+        {
+          "text": "$f^{-1}$(B) $\\subseteq$ A",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486ce"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff4486ca"
+    },
+    {
+      "sn": 44,
+      "question": "Argument of complex number Z is $\\frac{\\pi}{2}$ then Z =",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 2,
+      "explanation": "arg(Z) =$\\frac{\\pi}{2}$ means Zis purely imaginary with a>0.",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "a(a>0)",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486d0"
+        },
+        {
+          "text": "ai(a<0)",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486d1"
+        },
+        {
+          "text": "ai(a>0)",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486d2"
+        },
+        {
+          "text": "a+ib (a,b>0)",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486d3"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff4486cf"
+    },
+    {
+      "sn": 45,
+      "question": "The system of eqution 2x + 3y + 5=0 and 4x + 6y +5 =0 has",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 0,
+      "explanation": "parallel so no soln",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "no solution",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486d5"
+        },
+        {
+          "text": "unique solution",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486d6"
+        },
+        {
+          "text": "two solution",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486d7"
+        },
+        {
+          "text": "infinitely many solution",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486d8"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff4486d4"
+    },
+    {
+      "sn": 46,
+      "question": "Eccentricity of the ellipse $5x^2 + 9y^2 = 15 $ is",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 1,
+      "explanation": "use formula",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "5/9",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486da"
+        },
+        {
+          "text": "2/3",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486db"
+        },
+        {
+          "text": "4/9",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486dc"
+        },
+        {
+          "text": "$\\sqrt{\\frac{14}{3}} $",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486dd"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff4486d9"
+    },
+    {
+      "sn": 47,
+      "question": "Direction cosines of a line lying on both xy and yz plane is",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 1,
+      "explanation": "y axis",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "1,0,0",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486df"
+        },
+        {
+          "text": "0,1,0",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486e0"
+        },
+        {
+          "text": "0,0,1",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486e1"
+        },
+        {
+          "text": "1,1,1",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486e2"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff4486de"
+    },
+    {
+      "sn": 48,
+      "question": "In a plane, ax+by+cz=d the coefficient a,b,c are",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 3,
+      "explanation": "by defination",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "direction cosines of the plane",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486e4"
+        },
+        {
+          "text": "direction ratios of the plane",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486e5"
+        },
+        {
+          "text": "direction cosines of a line perpendicular to the plane",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486e6"
+        },
+        {
+          "text": "direction ratios of a line perpendicular to the plane",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486e7"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff4486e3"
+    },
+    {
+      "sn": 49,
+      "question": "If $tan^{-1}$$ (\\sqrt{cos x} ) $+$cot^{-1}$$ (\\sqrt{cos x} )$$ =\\alpha$ then $sin\\alpha$ =",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 1,
+      "explanation": "$\\alpha = \\pi /2$ $\\\\$ so $sin( \\pi/2) =1$",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "-1",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486e9"
+        },
+        {
+          "text": "1",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486ea"
+        },
+        {
+          "text": "0",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486eb"
+        },
+        {
+          "text": "undefined",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486ec"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff4486e8"
+    },
+    {
+      "sn": 50,
+      "question": "If $sin^{-1}x + sin^{-1}y=\\frac{\\pi}{3}$, then $cos^{-1}x + cos^{-1}y =$",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 2,
+      "explanation": "use $cos^{-1}x = \\pi /2 -sin^{-1}x$",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "$\\pi /3$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486ee"
+        },
+        {
+          "text": "$-\\pi /3$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486ef"
+        },
+        {
+          "text": "$2\\pi /3$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486f0"
+        },
+        {
+          "text": "$\\pi$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486f1"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff4486ed"
+    },
+    {
+      "sn": 51,
+      "question": "If $\\vec{a} =-\\vec{b}$ and $\\vec{b} =-2\\vec{c} $ , then angle between $\\vec{a} and \\vec{c}$ is",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 0,
+      "explanation": "a is unlike to b and b is unlike to c",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "0",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486f3"
+        },
+        {
+          "text": "$\\pi /4$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486f4"
+        },
+        {
+          "text": "$\\pi /2$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486f5"
+        },
+        {
+          "text": "$\\pi$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486f6"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff4486f2"
+    },
+    {
+      "sn": 52,
+      "question": "Which one of the following vector does not lie on a plane containing $\\vec{a} and \\vec{b}$?",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 1,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "$\\vec{a} +\\vec{b}$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486f8"
+        },
+        {
+          "text": "$\\vec{a} \\times \\vec{b}$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486f9"
+        },
+        {
+          "text": "$\\frac{\\vec{a}}{|a|} +\\frac{\\vec{b}}{|b|}$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486fa"
+        },
+        {
+          "text": "$x\\vec{a} - y\\vec{b}$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486fb"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff4486f7"
+    },
+    {
+      "sn": 53,
+      "question": "In $\\Delta$ ABC , a,b,c are in AP then cosecA, cosecB, cosecC are",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 0,
+      "explanation": "a,b,c are in AP, $\\\\$2RsinA, 2RsinB, 2RsinC are in AP $\\\\$cosecA, cosecB, cosecC are in HP.",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "in HP",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486fd"
+        },
+        {
+          "text": "in AP",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486fe"
+        },
+        {
+          "text": "in GP",
+          "image": "",
+          "_id": "66b5c4435a5528bdff4486ff"
+        },
+        {
+          "text": "equal",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448700"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff4486fc"
+    },
+    {
+      "sn": 54,
+      "question": "If x=$\\frac{1}{1!} + \\frac{1}{2!} + \\frac{1}{3!} + ....... + \\infty, $ then",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 3,
+      "explanation": "x=e-1 $\\\\$=> x+1=e $\\\\$$\\therefore$ 2<e<3 $\\\\$=>2<x+1<3$\\\\$=>1<x<2",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "x=e",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448702"
+        },
+        {
+          "text": "1 $\\leq$ x$\\leq$ 2",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448703"
+        },
+        {
+          "text": "2<x<3",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448704"
+        },
+        {
+          "text": "1<x<2",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448705"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448701"
+    },
+    {
+      "sn": 55,
+      "question": "If $\\lim_{ x \\to 2}$ $\\frac{x^k-2^k}{x-2}$=80, then k=",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 2,
+      "explanation": "$\\lim_{ x \\to 2}$ $\\frac{x^k-2^k}{x-2}$=80 $\\\\$$k 2^{k-1} =80$ $\\\\$k=5",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "1",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448707"
+        },
+        {
+          "text": "2",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448708"
+        },
+        {
+          "text": "5",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448709"
+        },
+        {
+          "text": "6",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44870a"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448706"
+    },
+    {
+      "sn": 56,
+      "question": "What does the standard deviation measure?",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 2,
+      "explanation": "make figure and analyze",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "Average value of a dataset",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44870c"
+        },
+        {
+          "text": "Middle value of a dataset",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44870d"
+        },
+        {
+          "text": "Spread or dispersion of a dataset",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44870e"
+        },
+        {
+          "text": "Skewness of a dataset",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44870f"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff44870b"
+    },
+    {
+      "sn": 57,
+      "question": "If  A=$\\begin{pmatrix}cos\\theta & -sin\\theta \\\\sin\\theta & cos\\theta  \\\\\\end{pmatrix}$ then $A^{-1}$ =",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 3,
+      "explanation": "use inverse formula.",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "A",
+          "image": "",
+          "_id": "66b814d390e7d71db296c899"
+        },
+        {
+          "text": "-A",
+          "image": "",
+          "_id": "66b814d390e7d71db296c89a"
+        },
+        {
+          "text": "|A|I",
+          "image": "",
+          "_id": "66b814d390e7d71db296c89b"
+        },
+        {
+          "text": "$A^T$",
+          "image": "",
+          "_id": "66b814d390e7d71db296c89c"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448710"
+    },
+    {
+      "sn": 58,
+      "question": "The derivative of  $e^{log_e x}$ w.r.t x is.",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 3,
+      "explanation": "log is inverse of e",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "$log_e x e^{log_e x}$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448716"
+        },
+        {
+          "text": "$e^{log_e x}$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448717"
+        },
+        {
+          "text": "$log_e x e^{log_e x-1}$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448718"
+        },
+        {
+          "text": "1",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448719"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448715"
+    },
+    {
+      "sn": 59,
+      "question": "$\\int \\frac{log_e x}{x} dx $=",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 1,
+      "explanation": "use principle of integration or put y=lnx",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "$\\frac{log_e x}{2} +c $",
+          "image": "",
+          "_id": "66b8125590e7d71db296a4da"
+        },
+        {
+          "text": "$\\frac{(log_e x)^2}{2} +c $",
+          "image": "",
+          "_id": "66b8125590e7d71db296a4db"
+        },
+        {
+          "text": "$ log_e x $+c",
+          "image": "",
+          "_id": "66b8125590e7d71db296a4dc"
+        },
+        {
+          "text": "$\\frac{x}{log_e x} +c $",
+          "image": "",
+          "_id": "66b8125590e7d71db296a4dd"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff44871a"
+    },
+    {
+      "sn": 60,
+      "question": "The general solution of tan2$\\theta$=cot$\\theta $ is",
+      "questionImage": "",
+      "weight": 1,
+      "answer": 0,
+      "explanation": "$cot\\theta = tan(\\frac{\\pi}{2} -\\theta)$",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "$\\frac{n\\pi}{3} +\\frac{\\pi}{6}$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448720"
+        },
+        {
+          "text": "$\\frac{n\\pi}{3} +\\frac{\\pi}{2}$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448721"
+        },
+        {
+          "text": "$\\frac{n\\pi}{3} +\\frac{\\pi}{4}$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448722"
+        },
+        {
+          "text": "$\\frac{n\\pi}{3} -\\frac{\\pi}{4}$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448723"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff44871f"
+    },
+    {
+      "sn": 61,
+      "question": "Read the passage and answer the question. $\\\\$In 1920 after some thirty-nine years of problems with disease, high costs, politics, the panama canal was officially opened, finally linking the Atlantic and the Pacific Oceans by allowing ships to pass through. The fifty-mile canal zone instead of travelling some seven thousands miles around  cape horn. It takes a ship approximately eight hours to complete the trip through the canal and costs an average of fifteen thousand dollars, one tenth of what it would cost an average ship to round the horn. More than fifteen thousand ships pass through its $\\underline{locks}$ every year.$\\\\$The French  initiated the project but sold their rights to the United States, which actually began the construction of the project . The latter will control it until the end of 2010 when Panama takes over its duties.$\\\\$Who currently controls the Panama Canal?",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 1,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "France",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448725"
+        },
+        {
+          "text": "US",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448726"
+        },
+        {
+          "text": "Panama",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448727"
+        },
+        {
+          "text": "Canal Zone",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448728"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448724"
+    },
+    {
+      "sn": 62,
+      "question": "It can be inferred from the passage that:",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 1,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "the canal is a costly project which should be revaluated",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44872a"
+        },
+        {
+          "text": "despite all the problems involved , the project is beneficial",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44872b"
+        },
+        {
+          "text": "many captains prefer to sail around Cape Horn because it is less expensive",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44872c"
+        },
+        {
+          "text": "problem have made it necessary for three governments to control the canal over the years",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44872d"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448729"
+    },
+    {
+      "sn": 63,
+      "question": "On the average, how much would it cost a ship to travel through Cape Horn?",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 2,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "$1,500",
+          "image": "",
+          "_id": "66b8128090e7d71db296b027"
+        },
+        {
+          "text": "$15,000",
+          "image": "",
+          "_id": "66b8128090e7d71db296b028"
+        },
+        {
+          "text": "$150,000",
+          "image": "",
+          "_id": "66b8128090e7d71db296b029"
+        },
+        {
+          "text": "$1,500,000",
+          "image": "",
+          "_id": "66b8128090e7d71db296b02a"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff44872e"
+    },
+    {
+      "sn": 64,
+      "question": "\"The word locks\" underlined in the passage is closest in meaning to\"",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 3,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "securities",
+          "image": "",
+          "_id": "66b8128d32564d6cb8c1c329"
+        },
+        {
+          "text": "latches",
+          "image": "",
+          "_id": "66b8128d32564d6cb8c1c32a"
+        },
+        {
+          "text": "lakes",
+          "image": "",
+          "_id": "66b8128d32564d6cb8c1c32b"
+        },
+        {
+          "text": "canal gated",
+          "image": "",
+          "_id": "66b8128d32564d6cb8c1c32c"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448733"
+    },
+    {
+      "sn": 65,
+      "question": "A gas formed by heating conc. $H_2SO_4$ with copper turnings is dehydrated using",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 3,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "$P_2O_5$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448739"
+        },
+        {
+          "text": "$CaCl_2$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44873a"
+        },
+        {
+          "text": "CaO",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44873b"
+        },
+        {
+          "text": "$H_2SO_4$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44873c"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448738"
+    },
+    {
+      "sn": 66,
+      "question": "Charring of sugar by conc. $H_2SO_4$ is its",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 2,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "Oxidizing action",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44873e"
+        },
+        {
+          "text": "Reducing action",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44873f"
+        },
+        {
+          "text": "Dehydrating action",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448740"
+        },
+        {
+          "text": "Dehydrogenation action",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448741"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff44873d"
+    },
+    {
+      "sn": 67,
+      "question": "Action of $K_2Cr_2O_7$ is acidic medium, the eq. wt of $K_2Cr_2O_7$ is (mol. wt. of  $K_2Cr_2O_7$ is M)",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 3,
+      "explanation": "Write the chemical eqution and see the difference in ON of Cr. (i.e 3)$\\\\$So, Eq wt =$\\frac{Mol. wt.}{Change in ON}$ = $\\frac{M}{6}$",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "M",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448743"
+        },
+        {
+          "text": "M/2",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448744"
+        },
+        {
+          "text": "M/4",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448745"
+        },
+        {
+          "text": "M/6",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448746"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448742"
+    },
+    {
+      "sn": 68,
+      "question": "The pH of a solution formed by mixing equal volumes of 5% HCl  and 5% NaOH solution is",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 0,
+      "explanation": "$N_mix = \\frac{N_1-N_2}{2} =\\frac{\\frac{5 \\times 10}{36.5}-\\frac{5 \\times 10}{40}}{2} =0.059 (w.r.to  acid) $$\\\\$pH=-log 0.059  = 1.22",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "1.22",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448748"
+        },
+        {
+          "text": "2.22",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448749"
+        },
+        {
+          "text": "11.78",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44874a"
+        },
+        {
+          "text": "12.78",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44874b"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448747"
+    },
+    {
+      "sn": 69,
+      "question": "pH of a saturated solution of $Ba(OH)_2$ is 12. The value of solubility product $(K_sp)$ of $Ba(OH)_2$ is",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 1,
+      "explanation": "pH=12, $H^{+} = 10^{-12}$ $\\\\$ $OH^{-}$ = $\\frac{kw}{H^{+}}$ =$\\frac{10^{-14}}{10^{-12}}$=$10^{-2}$ $\\\\$$Ba(OH)_2$ $ \\rightleftharpoons $ $ Ba^{2+} + 2OH^{-}$ $\\\\$s                                  s              2s $\\\\$Solubility $\\\\$2s = $10^{-2}$, s=$ \\frac{10^{-2}}{2}$ $\\\\$ Ksp =$[Ba^{2+}] [OH^{-}]^2$ $\\\\$Ksp = $ s\\times (2s)^2$= $4s^3$=4$(\\frac{10^{-2}}{2})^3$ = $5 \\times 10^{-7}$",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "$3.3 \\times 10^{-7}$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44874d"
+        },
+        {
+          "text": "$5 \\times 10^{-7}$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44874e"
+        },
+        {
+          "text": "$4 \\times 10^{-6}$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44874f"
+        },
+        {
+          "text": "$5 \\times 10^{-6}$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448750"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff44874c"
+    },
+    {
+      "sn": 70,
+      "question": "An oxide of an element contains 53.33% oxygen. The vapour density  of the chloride of the element is 85. The atomic weight of element is.",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 3,
+      "explanation": "Eq. wt of element = $\\frac{46.67}{53.33} \\times 8 =7$ $\\\\$Valency =$\\frac{2 \\times 85}{7+35.5} =4$ $\\\\$At. wt = 4 * 7 =28",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "23",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448752"
+        },
+        {
+          "text": "24",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448753"
+        },
+        {
+          "text": "27",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448754"
+        },
+        {
+          "text": "28",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448755"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448751"
+    },
+    {
+      "sn": 71,
+      "question": "Which of the following order of acidity is correct?",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 1,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "$HCOOH>CH_3COOH>C_6H_5COOH$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448757"
+        },
+        {
+          "text": "$HCOOH>C_6H_5COOH>CH_3COOH$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448758"
+        },
+        {
+          "text": "$C_2H_5COOH>CH_3COOH>HCOOH$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff448759"
+        },
+        {
+          "text": "$C_6H_5COOH>HCOOH>CH_3COOH$",
+          "image": "",
+          "_id": "66b5c4435a5528bdff44875a"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff448756"
+    },
+    {
+      "sn": 72,
+      "question": "0.873 amp current is passed through $CuSO_4$ solution for 3 minutes. The mass of Cu deposited at cathode is",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 3,
+      "explanation": "Find Q, then use unitary method or formula.",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "0.0145g",
+          "image": "",
+          "_id": "66b5c4445a5528bdff44875c"
+        },
+        {
+          "text": "0.0469g",
+          "image": "",
+          "_id": "66b5c4445a5528bdff44875d"
+        },
+        {
+          "text": "0.036g",
+          "image": "",
+          "_id": "66b5c4445a5528bdff44875e"
+        },
+        {
+          "text": "0.0517g",
+          "image": "",
+          "_id": "66b5c4445a5528bdff44875f"
+        }
+      ],
+      "_id": "66b5c4435a5528bdff44875b"
+    },
+    {
+      "sn": 73,
+      "question": "A ball is thrown a distance 15m from the foot of vertical wall at $45^o $ with horizontal and just clear the top of wall then fall at 5m in other side. Height of wall is",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 0,
+      "explanation": "$R_{max} =\\frac{u^2}{g}$ and h=$xtan\\theta - \\frac{gx^2}{2u^2cos^2\\theta}$",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "3.75m",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448761"
+        },
+        {
+          "text": "7.75m",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448762"
+        },
+        {
+          "text": "10.25m",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448763"
+        },
+        {
+          "text": "12.25m",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448764"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff448760"
+    },
+    {
+      "sn": 74,
+      "question": "A mass 'm' moving horizontally with velocity $v_o$ strikes a pendulum of mass 'm'. If the two masses stick together and after collision move together then maximum height reached by the pendulum is",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 3,
+      "explanation": "$mv_o$= (m+m)u $\\\\$or, u =$\\frac{v_o}{2}$ $\\\\$And, H=$\\frac{u^2}{2g} = \\frac{v_o ^{2}}{8g}$",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "$\\sqrt{v_og}$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448766"
+        },
+        {
+          "text": "$\\sqrt{2v_og}$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448767"
+        },
+        {
+          "text": "$\\frac{v_o ^{2}}{g}$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448768"
+        },
+        {
+          "text": "$\\frac{v_o ^{2}}{8g}$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448769"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff448765"
+    },
+    {
+      "sn": 75,
+      "question": "A flywheel rotates with uniform angular acceleration. It's angular velocity increases from 20$\\pi$ rad/s to 40$\\pi$ rad/s in 10 seconds. The no. of rotations made in this time is",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 3,
+      "explanation": "use formula of $\\alpha , \\theta$ and no of rotation which is equivalent to linear motion formula",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "80",
+          "image": "",
+          "_id": "66b5c4445a5528bdff44876b"
+        },
+        {
+          "text": "100",
+          "image": "",
+          "_id": "66b5c4445a5528bdff44876c"
+        },
+        {
+          "text": "120",
+          "image": "",
+          "_id": "66b5c4445a5528bdff44876d"
+        },
+        {
+          "text": "150",
+          "image": "",
+          "_id": "66b5c4445a5528bdff44876e"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff44876a"
+    },
+    {
+      "sn": 76,
+      "question": "Work done in blowing a sop bubble of 10 cm radius is if surface tension of soap is 0.03N$m^{-1}$",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 1,
+      "explanation": "W=$8\\pi R^{2}T$",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "$3.77 \\times 10^{-3}$ J",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448770"
+        },
+        {
+          "text": "$7.54 \\times 10^{-3}$ J",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448771"
+        },
+        {
+          "text": "$1.5 \\times 10^{-2}$ J",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448772"
+        },
+        {
+          "text": "$7.5 \\times 10^{-2}$ J",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448773"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff44876f"
+    },
+    {
+      "sn": 77,
+      "question": "The time in which a thickness of ice in lake increase from 5cm to 10cm in atmosphere of -10$^o$C is if density of ice is 920$kg/m^3 $ and thermal conductivity of ice is 1.68 $wm^{-1}k^{-1}$ is",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 2,
+      "explanation": "t=$\\frac{\\rho L_f}{2kd\\theta}(x_2 ^2-x_1^2)$ =19.2hrs",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "5 hrs",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448775"
+        },
+        {
+          "text": "15 hrs",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448776"
+        },
+        {
+          "text": "19.2 hrs",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448777"
+        },
+        {
+          "text": "25.1 hrs",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448778"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff448774"
+    },
+    {
+      "sn": 78,
+      "question": "A man travelling along a straight line joining two sources each of 1000Hz. the velocity of man to hear 15 beat/s is, if velocity of sound is 330m/s.",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 1,
+      "explanation": "$f_b = \\frac{2 v_o}{v} f$",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "1.5 m/s",
+          "image": "",
+          "_id": "66b5c4445a5528bdff44877a"
+        },
+        {
+          "text": "2.5 m/s",
+          "image": "",
+          "_id": "66b5c4445a5528bdff44877b"
+        },
+        {
+          "text": "3 m/s",
+          "image": "",
+          "_id": "66b5c4445a5528bdff44877c"
+        },
+        {
+          "text": "5 m/s",
+          "image": "",
+          "_id": "66b5c4445a5528bdff44877d"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff448779"
+    },
+    {
+      "sn": 79,
+      "question": "A $4\\mu F$ capacitor is charged by a 200V supply. It is then disconnected from the supply and is connected to another uncharged 2$\\mu F$ capacitor. The energy lost in the process is",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 2,
+      "explanation": "use $E_1 = \\frac{C_1 V_1 ^2}{2}$ $\\\\$$C_1V_1 = (C_1 +C_2)V$  $\\\\$ $\\therefore$V=$\\frac{400}{3} V$ $\\\\$$E_f =\\frac{(C_1 + C_2)V^2}{2}$  $\\\\$Loss of energy (E) = E1-Ef =0.027J",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "$3 \\times 10^{-2}$ J",
+          "image": "",
+          "_id": "66b5c4445a5528bdff44877f"
+        },
+        {
+          "text": "$3 \\times 10^{2}$ J",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448780"
+        },
+        {
+          "text": "$2.67 \\times 10^{-2}$ J",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448781"
+        },
+        {
+          "text": "$2.8 \\times 10^{2}$ J",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448782"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff44877e"
+    },
+    {
+      "sn": 80,
+      "question": "A uniform wire of resistance 36 $\\Omega$ is bent in a circle then the resistance across arc of 30 degree will be",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 2,
+      "explanation": "Draw figure, see the length of resistor which are in parallel series. Now use formula of combination of resistor.",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "$36 \\Omega$",
+          "image": "",
+          "_id": "66b811ef32564d6cb8c1b3eb"
+        },
+        {
+          "text": "$3 \\Omega$",
+          "image": "",
+          "_id": "66b811ef32564d6cb8c1b3ec"
+        },
+        {
+          "text": "$2.75 \\Omega$",
+          "image": "",
+          "_id": "66b811ef32564d6cb8c1b3ed"
+        },
+        {
+          "text": "$1.5 \\Omega$",
+          "image": "",
+          "_id": "66b811ef32564d6cb8c1b3ee"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff448783"
+    },
+    {
+      "sn": 81,
+      "question": " A uniform magnetic field acts at right angle to the direction of motion of electrons. As a result of this, the electron describes a circular path of radius 2cm. If the speed of electron is doubled, the radius of circular path will be",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 0,
+      "explanation": "use $Bev =\\frac{mv^2}{r}$ in both case and divide .",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "4 cm",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448789"
+        },
+        {
+          "text": "2 cm",
+          "image": "",
+          "_id": "66b5c4445a5528bdff44878a"
+        },
+        {
+          "text": "1 cm",
+          "image": "",
+          "_id": "66b5c4445a5528bdff44878b"
+        },
+        {
+          "text": "8 cm",
+          "image": "",
+          "_id": "66b5c4445a5528bdff44878c"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff448788"
+    },
+    {
+      "sn": 82,
+      "question": "The magnetic flux in a closed circuit of resistance 10$\\Omega$ varies with time as $\\phi$=$(6t^2 - 5t +1)wb$. The magnitude of induced current at t=0.25 sec is",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 0,
+      "explanation": "$E=-\\frac{d\\phi}{df} = -(12t-5) =2V$ $\\\\$I=E/R = 2/10 = 0.2A",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "0.2 A",
+          "image": "",
+          "_id": "66b5c4445a5528bdff44878e"
+        },
+        {
+          "text": "0.6 A",
+          "image": "",
+          "_id": "66b5c4445a5528bdff44878f"
+        },
+        {
+          "text": "1.2 A",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448790"
+        },
+        {
+          "text": "0.8 A",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448791"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff44878d"
+    },
+    {
+      "sn": 83,
+      "question": "A convex lens of focal length 20cm is made of glass of refractive index 3/2. The focal length of lens when placed in water of refractive index 4/3 will be",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 0,
+      "explanation": "Use lens maker formula in both case and divide. Remember to use relative refractive index with water in 2nd case.",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "80 cm",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448793"
+        },
+        {
+          "text": "15 cm",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448794"
+        },
+        {
+          "text": "17.7 cm",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448795"
+        },
+        {
+          "text": "22.5 cm",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448796"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff448792"
+    },
+    {
+      "sn": 84,
+      "question": "The electron in hydrogen atom is excited with total energy -3.4 ev then the wavelength of electron wave will be",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 2,
+      "explanation": "Use de-Broglie wave equation.",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "3.34 Å",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448798"
+        },
+        {
+          "text": "5.26 Å",
+          "image": "",
+          "_id": "66b5c4445a5528bdff448799"
+        },
+        {
+          "text": "6.65 Å",
+          "image": "",
+          "_id": "66b5c4445a5528bdff44879a"
+        },
+        {
+          "text": "10.2 Å",
+          "image": "",
+          "_id": "66b5c4445a5528bdff44879b"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff448797"
+    },
+    {
+      "sn": 85,
+      "question": "90% of the active nuclei present in a radioactive sample are found to remain undecayed after 1 day. The percentage of undecayed nuclei left after two days will be",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 1,
+      "explanation": "Find the half life time and using 1st condition. Then use it to find the solution in 2nd case.",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "85%",
+          "image": "",
+          "_id": "66b5c4445a5528bdff44879d"
+        },
+        {
+          "text": "81%",
+          "image": "",
+          "_id": "66b5c4445a5528bdff44879e"
+        },
+        {
+          "text": "80%",
+          "image": "",
+          "_id": "66b5c4445a5528bdff44879f"
+        },
+        {
+          "text": "79%",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487a0"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff44879c"
+    },
+    {
+      "sn": 86,
+      "question": "Range of a real valued function f(x)=$-x^2 + 4x-3$ is",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 1,
+      "explanation": "y=-($x^2-4x$)-3 $\\\\$y=-($x^2-4x+4$)+4-3 $\\\\$$(x-2)^2 =1-y $$\\geq$ 0 $\\\\$1 $\\geq$ y",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "[1,$\\infty$)",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487a2"
+        },
+        {
+          "text": "(-$\\infty$,1]",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487a3"
+        },
+        {
+          "text": "(-$\\infty$,1)",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487a4"
+        },
+        {
+          "text": "(-$\\infty$,$\\infty$)",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487a5"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff4487a1"
+    },
+    {
+      "sn": 87,
+      "question": "If x+$\\frac{1}{x}$ = -1, then $x^{3}+x^{6}=$",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 3,
+      "explanation": "From given condition, find x ( which is imaginary). Use  it in asked condition.",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "-1",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487a7"
+        },
+        {
+          "text": "0",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487a8"
+        },
+        {
+          "text": "1",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487a9"
+        },
+        {
+          "text": "2",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487aa"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff4487a6"
+    },
+    {
+      "sn": 88,
+      "question": "The number of arrangements of 5 couples in a row so that husband and wife are always together is",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 0,
+      "explanation": "5 couple can be arranged in 5! ways. $\\\\$Husband and wife can be exchange their seats in 2*2*2*2*2 ways.$\\\\$Total ways= $2^5 \\times 5!$",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "$2^5 \\times 5!$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487ac"
+        },
+        {
+          "text": "$2 \\times 5!$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487ad"
+        },
+        {
+          "text": "$(5!)^2$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487ae"
+        },
+        {
+          "text": "5!",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487af"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff4487ab"
+    },
+    {
+      "sn": 89,
+      "question": "The general solution of tanx . tan2x =1 is",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 1,
+      "explanation": "tan2x=$\\frac{2tanx}{1-tan^2 x}$$\\\\$Put this in given equation and solve. $\\\\$$tan^2 x = (\\frac{1}{\\sqrt{3}})^2$ $\\\\$$\\therefore x=n\\pi \\pm \\frac{\\pi}{6}$",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "$n\\pi \\pm \\pi/3$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487b1"
+        },
+        {
+          "text": "$n\\pi \\pm \\pi/6$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487b2"
+        },
+        {
+          "text": "$n\\pi + \\pi/6$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487b3"
+        },
+        {
+          "text": "$2n\\pi \\pm \\pi/6$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487b4"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff4487b0"
+    },
+    {
+      "sn": 90,
+      "question": "If slope of one of the lines $ax^2 - 5xy + y^2=0$ exceed the other by 1, then a=",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 2,
+      "explanation": "Let the slope be m and (m+1). $\\\\$Now, use the rule of sum and product of slopes in this equation.",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "-6",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487b6"
+        },
+        {
+          "text": "0",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487b7"
+        },
+        {
+          "text": "6",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487b8"
+        },
+        {
+          "text": "15/4",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487b9"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff4487b5"
+    },
+    {
+      "sn": 91,
+      "question": "Two circle $x^2 + y^2 -ay -5=0$ and $r=asin\\theta$",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 3,
+      "explanation": "$r=asin\\theta$ $\\\\$$r^2  =arsin\\theta$$\\\\$$x^2+y^2=ay$$\\\\$$x^2+y^2-ay=0$ which is concentric with $x^2+y^2-ay-5=0$",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "touch externally",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487bb"
+        },
+        {
+          "text": "touch internally",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487bc"
+        },
+        {
+          "text": "have equal radii",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487bd"
+        },
+        {
+          "text": "are concentric",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487be"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff4487ba"
+    },
+    {
+      "sn": 92,
+      "question": "The Central Limit Theorem is crucial for inferential statistics. What does it primarily state?",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 0,
+      "explanation": "",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "The distribution of the sum (or average) of a large number of independent, identically distributed random variables approaches a Gaussian (normal) distribution, regardless of the original distribution of the variables.",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487c0"
+        },
+        {
+          "text": "The median of a distribution is the value that separates the highest 50% from the lowest 50%.",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487c1"
+        },
+        {
+          "text": "As the sample size increases, the variance decreases.",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487c2"
+        },
+        {
+          "text": "The mode of a distribution is the most frequently occurring value.",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487c3"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff4487bf"
+    },
+    {
+      "sn": 93,
+      "question": "A line segment of length 6 units is equally inclined with +ve X,Y and Z axes then projection of the line segment on y-axis is",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 0,
+      "explanation": "$cos^2\\alpha +cos^2\\alpha +cos^2\\alpha =1$$\\\\$$3cos^2\\alpha =1$ $\\\\$$cos\\alpha =\\pm 1/\\sqrt{3}$$\\\\$Projection on y-axis=$rcos\\beta and \\alpha =\\beta$ $\\\\$                                = $6 \\times \\frac{1}{\\sqrt{3}} =2\\sqrt{3}$",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "$2\\sqrt{3}$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487c5"
+        },
+        {
+          "text": "$3\\sqrt{3}$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487c6"
+        },
+        {
+          "text": "$\\sqrt{6}$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487c7"
+        },
+        {
+          "text": "6",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487c8"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff4487c4"
+    },
+    {
+      "sn": 94,
+      "question": "Angles of a triangle are in the ratio of 1:2:3 and its perimeter is $9+3\\sqrt{3}$ then the shortest side is",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 1,
+      "explanation": "Angles are x,2x,3x $\\\\$x+2x+3x=180 $\\\\$so angles are 30,60,90 $\\\\$$\\frac{a}{sinA}=\\frac{b}{sinB}=\\frac{c}{sinC} $$\\\\$a:b:c=1:$\\sqrt{3}:2$$\\\\$and k+$\\sqrt{3}$k +2k = 9+3$\\sqrt{3}$ $\\\\$so k=3",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "9",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487ca"
+        },
+        {
+          "text": "3",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487cb"
+        },
+        {
+          "text": "6",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487cc"
+        },
+        {
+          "text": "$\\frac{\\sqrt{3}+1}{2}$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487cd"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff4487c9"
+    },
+    {
+      "sn": 95,
+      "question": "If $\\vec{a} .\\vec{i} =\\vec{a} (\\vec{i} +\\vec{j}) =\\vec{a} . (\\vec{i} +\\vec{j} +\\vec{k}) =1$ then $\\vec{a}$=",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 1,
+      "explanation": "$Put \\vec{a} = a_1\\vec{i} + a_2\\vec{j} + a_3\\vec{k}$ $\\\\$then from given equation, operate and get the ans.",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "$(\\vec{i} +\\vec{j} +\\vec{k})$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487cf"
+        },
+        {
+          "text": "$\\vec{i}$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487d0"
+        },
+        {
+          "text": "$\\vec{j}$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487d1"
+        },
+        {
+          "text": "$\\vec{i} +\\vec{j}$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487d2"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff4487ce"
+    },
+    {
+      "sn": 96,
+      "question": "$\\lim_{x \\to 0} = \\frac{(cosx-1)(cosx-e^x)}{x^3} =$",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 2,
+      "explanation": "$\\lim_{x \\to 0} \\frac{-2sin^2 \\frac{x}{2} (cosx-e^x)}{x^3}$$\\\\$then use the property $\\lim_{x \\to 0} \\frac{sinx}{x} =1$ $\\\\$Then use L' Hospital rule",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "-1/2",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487d4"
+        },
+        {
+          "text": "0",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487d5"
+        },
+        {
+          "text": "1/2",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487d6"
+        },
+        {
+          "text": "1/4",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487d7"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff4487d3"
+    },
+    {
+      "sn": 97,
+      "question": "If y=$sin^{-1} \\frac{1-x^2}{1+x^2} then \\frac{dy}{dx}=$",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 0,
+      "explanation": "Pur x=tan$\\theta$ $\\\\$y=$sin^{-1} \\frac{1-tan^2 \\theta}{1+tan^2\\theta} = sin^{-1} cos2\\theta$ $\\\\$  =$sin^{-1}sin(\\frac{\\pi}{2}-2\\theta) =\\frac{\\pi}{2}-2\\theta = \\frac{\\pi}{2}-2tan^{-1}x$ $\\\\$$\\therefore \\frac{dy}{dx} = \\frac{-2}{1+x^2}$",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "-$\\frac{2}{1+x^2}$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487d9"
+        },
+        {
+          "text": "$\\frac{2}{1+x^2}$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487da"
+        },
+        {
+          "text": "$\\frac{1}{1+x^2}$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487db"
+        },
+        {
+          "text": "$\\frac{2}{1-x^2}$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487dc"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff4487d8"
+    },
+    {
+      "sn": 98,
+      "question": "$\\int \\frac{dx}{x(1+logx)^2}$=",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 3,
+      "explanation": "put y=1+logx or use the property$\\\\$$\\int (f(x))^m . (f'(x))^n dx $=$\\frac{(f(x))^{m+n}}{m+n}$",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "$ogx$",
+          "image": "",
+          "_id": "66b813946ab42751b95d2e97"
+        },
+        {
+          "text": "$1+logx$",
+          "image": "",
+          "_id": "66b813946ab42751b95d2e98"
+        },
+        {
+          "text": "$\\frac{1}{1+logx}$",
+          "image": "",
+          "_id": "66b813946ab42751b95d2e99"
+        },
+        {
+          "text": "$-\\frac{1}{1+logx}$",
+          "image": "",
+          "_id": "66b813946ab42751b95d2e9a"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff4487dd"
+    },
+    {
+      "sn": 99,
+      "question": "Area of region bounded by $y^2=4ax$ and its latus rectum is",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 2,
+      "explanation": "integrate y from 0 to a",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "$\\frac{16}{3} a^2$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487e3"
+        },
+        {
+          "text": "$\\frac{15}{3} a^2$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487e4"
+        },
+        {
+          "text": "$\\frac{8}{3} a^2$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487e5"
+        },
+        {
+          "text": "$\\frac{4}{3} a^2$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487e6"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff4487e2"
+    },
+    {
+      "sn": 100,
+      "question": "The middle term  in the expansion $(\\frac{x}{y} -\\frac{y}{x})^{10}$ is:",
+      "questionImage": "",
+      "weight": 2,
+      "answer": 2,
+      "explanation": "$t_6 = C(10,5) (\\frac{x}{y})^5 (-\\frac{y}{x})^5 =-252$",
+      "explanationImage": "",
+      "options": [
+        {
+          "text": "C(10.5) $(\\frac{x}{y})$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487e8"
+        },
+        {
+          "text": "C(10.5) $(\\frac{y}{x})$",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487e9"
+        },
+        {
+          "text": "-252",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487ea"
+        },
+        {
+          "text": "252",
+          "image": "",
+          "_id": "66b5c4445a5528bdff4487eb"
+        }
+      ],
+      "_id": "66b5c4445a5528bdff4487e7"
+    }
+  ]
+}
